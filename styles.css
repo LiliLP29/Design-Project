@@ -1,0 +1,220 @@
+.logo {
+    height: 150px;
+    width: 150;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+h1 {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    Width: 1000px;
+    position: relative;
+    left: 129px;
+    bottom: 65px;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    bottom: 20px;
+}
+ 
+#home {
+    width: 364px;
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    margin: -5px;
+}
+ 
+#home:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+/*These hover codes make each box on my nav bar flip the color of the background and the color of the text*/
+
+ 
+#pink {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #FF6DCE;
+    text-decoration: none;
+    margin: -5x;
+}
+ 
+#pink:hover {
+    background-color: white;
+    color:#FF6DCE;
+    text-decoration: none;
+}
+
+#yellow {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #FFD900;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#yellow:hover {
+    background-color: white;
+    color:#FFD900;
+    text-decoration: none;
+}
+ 
+#blue {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: #45B4EB;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#blue:hover {
+    background-color: white;
+    color: #45B4EB;
+    text-decoration: none;
+}
+
+#green {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:#4AE47E;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#green:hover {
+    background-color: white;
+    color:#4AE47E;
+    text-decoration: none;
+}
+
+#pink1 {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #FF6DCE;
+    text-decoration: none;
+    margin: -5px;
+}
+ 
+#pink1:hover {
+    background-color: white;
+    color:#FF6DCE;
+    text-decoration: none;
+}
+ 
+.abt {
+    border: black solid 2px;
+    color:black;
+    width: 1189px;
+    padding: 20px;
+    position:relative;
+    left: 97px;   
+}
+
+.pic1home {
+    width: 500px;
+    height: 250px;
+    border:#FF6DCE 5px solid;
+    padding: -10px;
+    position: relative;
+    left: 90px;
+}
+
+.pic2home {
+    width: 600px;
+    height: 250px;
+    border:#FFD900 5px solid;
+    padding: -10px;
+    position: relative;
+    left: 100px;
+}
+
+.pic3home {
+    width: 600px;
+    height: 250px;
+    border:#4AE47E 5px solid;
+    padding: -10px;
+    position: relative;
+    left: 180px;
+}
+
+.pic4home {
+    width: 500px;
+    height: 250px;
+    border:#45B4EB 5px solid;
+    padding: -10px;
+    position: relative;
+    left: 190px;
+}
+
+.implogo {
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+
+.abtimp {
+    width:500px;
+    height: 250px;
+    position: relative;
+    left: 700px;
+    bottom: 450px;
+    border: 2px solid black;
+    padding: 30px;
+    color: black;
+}
+
+.implink {
+    color:black;
+}
+
+.creds {
+    position: relative;
+    left: 100px;
+    bottom: 110px;
+}
+
+section {
+    position:relative;
+    left: 100px;
+    bottom: 300px;
+}
+
+.opt1 {
+    color: #FF6DCE;
+}
+
+.opt2 {
+    color: #FFD900;
+}
+ 
+.opt3 {
+    color: #45B4EB;
+}
+/*each opt corresponds to each option on my form, i made the colors go with the over color of each page. 
+For example, tap is blue*/
+
+.opt4 {
+    color: #4AE47E;
+}
+
+.opt5 {
+    color:#FF6DCE;
+}
